@@ -11,6 +11,7 @@
   inputs.src-c_alikes-master.ref   = "refs/heads/master";
   inputs.src-c_alikes-master.owner = "ReneSac";
   inputs.src-c_alikes-master.repo  = "c_alikes";
+  inputs.src-c_alikes-master.dir   = "";
   inputs.src-c_alikes-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
