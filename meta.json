@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/ReneSac/c_alikes",
   "refs": [
-    "fatal: unable to access 'https://github.com/ReneSac/c_alikes/': OpenSSL SSL_read: Connection reset by peer, errno 104",
+    "fatal: unable to access 'https://github.com/ReneSac/c_alikes/': SSL connection timeout",
     ""
   ],
   "heads": []
